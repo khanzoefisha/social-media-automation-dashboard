@@ -1,0 +1,30 @@
+{
+  "last_updated": "2024-12-06T22:00:00",
+  "instagram": {
+    "followers": 1250,
+    "profile_views": 3420,
+    "posts": [
+      {"id": 1, "likes": 145, "comments": 23, "timestamp": "2024-12-06T10:00:00"},
+      {"id": 2, "likes": 189, "comments": 31, "timestamp": "2024-12-05T14:30:00"},
+      {"id": 3, "likes": 234, "comments": 45, "timestamp": "2024-12-04T09:15:00"},
+      {"id": 4, "likes": 167, "comments": 28, "timestamp": "2024-12-03T16:45:00"},
+      {"id": 5, "likes": 201, "comments": 37, "timestamp": "2024-12-02T11:20:00"}
+    ]
+  },
+  "twitter": {
+    "followers": 890,
+    "tweets": [
+      {"id": 1, "likes": 67, "retweets": 12, "timestamp": "2024-12-06T08:00:00"},
+      {"id": 2, "likes": 89, "retweets": 18, "timestamp": "2024-12-05T12:00:00"},
+      {"id": 3, "likes": 123, "retweets": 25, "timestamp": "2024-12-04T15:30:00"}
+    ]
+  },
+  "history": [
+    {"date": "2024-12-01", "followers": 1180},
+    {"date": "2024-12-02", "followers": 1195},
+    {"date": "2024-12-03", "followers": 1210},
+    {"date": "2024-12-04", "followers": 1225},
+    {"date": "2024-12-05", "followers": 1238},
+    {"date": "2024-12-06", "followers": 1250}
+  ]
+}
