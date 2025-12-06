@@ -1,0 +1,5 @@
+{
+  "project": "Social Media Analytics Dashboard",
+  "description": "Automated Instagram/Twitter analytics dashboard with Flask",
+  "port": 8080
+}
